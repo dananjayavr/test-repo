@@ -7,3 +7,6 @@ https://beej.us/guide/bggit/html/split/github-how-to-use-it.html
 
 - This commit is done from the "main" branch
 - A change from the topic-merging
+
+- Added from the branch topic2
+
